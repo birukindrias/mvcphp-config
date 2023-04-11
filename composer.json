@@ -1,5 +1,5 @@
 {
-    "name": "phpmvc/mvc",
+    "name": "phpmvcrootcontroller/mvc",
     "description": "a root for mvcphp mvc framwork",
     "type": "library",
     "license": "1",
