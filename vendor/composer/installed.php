@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'app/mvc',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'phpmvc/mvc',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'bb91bd868627b3c2beca9e3215a7f0846a6eef4a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'app/mvc' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'phpmvc/mvc' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'bb91bd868627b3c2beca9e3215a7f0846a6eef4a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
