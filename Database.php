@@ -1,6 +1,6 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp\config;
 
 use PDO;
 

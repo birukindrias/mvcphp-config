@@ -1,8 +1,8 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp\config;
 
-use App\config\Database;
+use Mvcphp\Database;
 
 abstract class DbModel
 {

@@ -2,7 +2,7 @@
 $fileinfo =  '<?php
 namespace App\App\models;
 
-use App\config\Model;
+use Mvcphp\Model;
 class ' . ucfirst($filename) . ' extends Model 
 {
   

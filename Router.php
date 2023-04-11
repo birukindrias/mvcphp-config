@@ -1,8 +1,8 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp;
 
-use App\App\Exceptions\notFoundException;
+use Mvcphp\Exceptions\notFoundException;
 
 class Router
 {

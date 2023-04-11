@@ -1,7 +1,7 @@
 <?php
 include_once dirname(__DIR__) . "/../vendor/autoload.php";
 
-use App\config\App;
+use Mvcphp\config\App;
 
 $path = dirname(__DIR__).'/../';
 // var_dump(__DIR__);

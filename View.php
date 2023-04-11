@@ -1,9 +1,9 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp;
 
-use App\App\Exceptions\fileNotFoundException;
-use App\App\Exceptions\notFoundException;
+use Mvcphp\Exceptions\fileNotFoundException;
+use Mvcphp\Exceptions\notFoundException;
 
 class View
 {

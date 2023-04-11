@@ -1,6 +1,6 @@
 <?php
 $fileinfo = '<?php
-use App\config\App;
+use Mvcphp\App;
 
 class ' . lcfirst($filename) . '{
     public function up()

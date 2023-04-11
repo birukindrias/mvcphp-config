@@ -1,8 +1,8 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp;
 
-use App\config\DbModel;
+use Mvcphp\DbModel;
 
 abstract class Model extends DbModel
 {

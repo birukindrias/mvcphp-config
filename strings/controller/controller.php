@@ -3,8 +3,8 @@ $fileinfo = '<?php
 namespace App\App\Http\Controllers;
 
 use App\App\models\Users;
-use App\config\App;
-use App\config\Controller;
+use Mvcphp\App;
+use Mvcphp\Controller;
 class ' . $filename . ' extends Controller
 {
     public function ' . $filename . '()

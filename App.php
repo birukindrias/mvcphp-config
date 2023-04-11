@@ -1,8 +1,8 @@
 <?php
 
-namespace App\config;
+namespace Mvcphp\config;
 
-use App\App\models\Users;
+// use Mvcphp\models\Users;
 use Throwable;
 
 class App
@@ -25,7 +25,7 @@ class App
         $this->database = new Database($db_config);
 
         self::$main_path = 'dirname(__DIR__)';
-        $this->users = new Users();
+        $this->users = $db_config['user'];
         $this->request = new Request();
         $this->response = new Response();
         $this->session = new Session();
