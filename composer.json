@@ -1,0 +1,17 @@
+{
+    "name": "app/mvc",
+    "description": "a root for mvcphp mvc framwork",
+    "type": "library",
+    "license": "1",
+    "autoload": {
+        "psr-4": {
+            "App\\Mvc\\": "./"
+        }
+    },
+    "authors": [{
+        "name": "biruk indrias",
+        "email": "birukindrias@gmail.com"
+    }],
+    "minimum-stability": "beta",
+    "require": {}
+}
