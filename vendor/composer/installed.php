@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'phpmvcrootcontroller/mvc',
+        'name' => 'birukweb/mvc',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '48c7dc74ec87d5d499c0ae3d6f7fc767528a45e2',
+        'reference' => 'f7cb213a9fd685ee18805e63dfdb10797b495cdc',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'phpmvcrootcontroller/mvc' => array(
+        'birukweb/mvc' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '48c7dc74ec87d5d499c0ae3d6f7fc767528a45e2',
+            'reference' => 'f7cb213a9fd685ee18805e63dfdb10797b495cdc',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

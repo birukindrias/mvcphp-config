@@ -1,9 +1,9 @@
 <?php
 
-namespace Mvcphp\config;
+namespace Mvcphp;
 
 use Mvcphp\middleware\AuthMiddleware;
-use Mvcphp\config\middleware\BaseMiddleware as MiddlewareBaseMiddleware;
+use Mvcphp\middleware\BaseMiddleware as MiddlewareBaseMiddleware;
 
 class Controller extends View
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvcphp\config;
+namespace Mvcphp;
 
 use Mvcphp\Database;
 

@@ -11,6 +11,6 @@
         "name": "biruk indrias",
         "email": "birukindrias@gmail.com"
     }],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {}
 }
