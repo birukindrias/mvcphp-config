@@ -2,7 +2,6 @@
     "name": "birukweb/mvc",
     "description": "a root for mvcphp mvc framwork",
     "type": "library",
-    "license": "1",
     "autoload": {
         "psr-4": {
             "Mvcphp\\": "./"
